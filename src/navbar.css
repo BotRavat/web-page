@@ -1,0 +1,41 @@
+
+
+.main-nav{
+    width: 100%;
+   
+    display: grid;
+    background-color:white ;
+    grid-template-columns: 10rem 1fr 1fr 2fr  10rem;    
+
+   
+}
+
+.nav-logo{
+    display: grid;
+    grid-column: 2/4;
+    justify-content: start;
+    align-items: center;
+    font-size: 2.5rem;
+
+    }
+
+    .nav-link{
+        text-decoration: none;
+    }
+    .menu ul{
+        grid-column: 4/5;
+        height: 5rem;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+      
+
+    }
+
+    .menu li,.nav-logo li {
+        list-style-type: none;
+       
+        
+    }
+
+

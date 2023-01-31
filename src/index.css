@@ -1,0 +1,18 @@
+  @import url('https://fonts.googleapis.com/css2?family=Mulish&family=Rowdies:wght@700&display=swap');
+
+  *{
+    font-family: 'Mulish', sans-serif;
+   margin: 0;
+  }
+
+  html {background-color: lightcyan}
+
+
+  NavLink{
+    text-decoration: none;
+  }
+
+
+
+
+  
